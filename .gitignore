@@ -1,0 +1,19 @@
+# Python & Lingkungan Komputasi
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (Pencegahan unggah data tabular)
+*.csv
+*.xlsx
+*.xls
+
+# Folder Output / Gambar 
+Hasil_Visualisasi_Per_Tahun/
+*.png
+*.jpg
+*.pdf
+
+# File Sistem/Environment
+.env
+.DS_Store
